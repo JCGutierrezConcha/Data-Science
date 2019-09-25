@@ -2,7 +2,7 @@
 
 En este repositorio se encuentran ejercicios desarrollados como estudiante de data science/machine learning en Academia Desafío Latam.
 
-En la carpeta de cada ejercicio se encuentra el jupyter notebook con el código desarrolado y los archivos necesarios para su ejecución.
+En la carpeta de cada ejercicio se encuentra el jupyter notebook con el código desarrollado y los archivos necesarios para su ejecución.
 
 Actualmente este repositorio contiene ejecicios sobre:
 
