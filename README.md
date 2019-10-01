@@ -1,6 +1,6 @@
 # Data-Science
 
-En este repositorio se encuentran ejercicios desarrollados en la carrera de Data Science, realizada en Academia Desafío Latam.
+En este repositorio se encuentran ejercicios desarrollados durante la carrera de Data Science, realizada en Academia Desafío Latam.
 
 En la carpeta de cada ejercicio se encuentra el jupyter notebook con el código desarrollado y los archivos necesarios para su ejecución.
 
